@@ -8,10 +8,6 @@
       {
         "title": "Workshop",
         "text": "step1.md"
-      },
-      {
-        "title": "Improvement",
-        "text": "step2.md"
       }
     ],
     "intro": {
@@ -22,7 +18,14 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [
+      { 
+        "name": "Dog Facts Inc.",
+        "port": "5000"
+      }
+    ]
   },
   "backend": {
     "imageid": "ubuntu"
