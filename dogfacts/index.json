@@ -6,8 +6,12 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Workshop",
         "text": "step1.md"
+      },
+      {
+        "title": "Improvement",
+        "text": "step2.md"
       }
     ],
     "intro": {
